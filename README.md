@@ -19,7 +19,7 @@ install Git Bash,commands required to develop webpage will be provided in recomm
     
 ## Recommended Resources
  
-Below are some of the useful vedio tutorial links to get hold-off some basic markdown commands:
+Below are some of the useful video tutorial links to get hold-on some basic markdown commands:
  - [Markdown commands](https://www.youtube.com/watch?v=6A5EpqqDOdk "Click here for video tutorial")
  
 What exactly is GitHub? and Why only GitHub?These questions can be answered by the clicking on the below link
@@ -28,11 +28,14 @@ What exactly is GitHub? and Why only GitHub?These questions can be answered by t
 GitBash and its commands!
 - [GitBash](https://www.atlassian.com/git/tutorials/git-bash "GitBash Commands")
 
+About git
+- [Git](https://git-scm.com "complete git is here")
+
 ## Contributors
 
 Iam Manisha Mengani,an international student pursuing my majors in Applied computerScience at Northwest Missouri State University.
-Below is my recent picture when my husband and me had a long drive to Omaha!!
-- ![my image](ManishaGitHub.jpg)
+Below is my recent picture when me and my husband went on a long drive to Omaha!!
+- ![Manisha Mengani](ManishaGitHub.jpg)
 
 
 
