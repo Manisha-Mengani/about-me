@@ -17,9 +17,9 @@ install Git Bash,commands required to develop webpage will be provided in recomm
     1. CSS
     1. Markdown
  - Web Browsers
-    - Google Chrome
-    - Safari(MAC book)
-    - Internet Explorer
+    - [Google Chrome](https://www.google.com/chrome/)
+    - [Safari(MAC book)](https://support.apple.com/safari)
+    - [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
     
 ## Recommended Resources
  
@@ -37,8 +37,7 @@ About git
 
 ## Contributors
 
-Iam Manisha Mengani,an international student pursuing my majors in Applied computerScience at Northwest Missouri State University.
-Below is my recent picture when me and my husband went on a long drive to Omaha!!
+I am Manisha Mengani, an international student pursuing Master’s in Applied Computer Science  at Northwest Missouri State University. Below is the recent picture of me and my husband, clicked when we went on a long drive to Omaha!!
 - ![Manisha Mengani](ManishaGitHub.jpg)
 
 
