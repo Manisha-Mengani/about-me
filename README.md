@@ -5,7 +5,7 @@
 - [hosted page](https://github.com/Manisha-Mengani/about-me)
 
 ## About
-*This page gives a detailed information on developing to publish a repository using GitHub pages.This also includes tools that are required to develop it.In the last you can view some stuff related to me down the contributer heading.*
+*This page gives a detailed information to develop and publish a repository using GitHub pages.This also includes tools that are required to develop it.In the last you can view some stuff related to me down the contributer heading.*
 
 ## Recommended Tools
 Create a GitHub account,have any on the below web browers installed to create a webpage.
