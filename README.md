@@ -17,15 +17,15 @@ install Git Bash,commands required to develop webpage will be provided in recomm
     - Safari(MAC book)
     - Internet Explorer
     
- ## Recommended Resources
+## Recommended Resources
  
- Below are some the useful vedio tutorial links to know basics markdown commands:
+Below are some the useful vedio tutorial links to know basics markdown commands:
  - [Markdown commands](https://www.youtube.com/watch?v=6A5EpqqDOdk "Click here for video tutorial")
  
- What exactly is GitHub? and Why only GitHub?These questions can be answers by the clicking on the below link
+What exactly is GitHub? and Why only GitHub?These questions can be answers by the clicking on the below link
  - [Why GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/ "Click here")
  
- GitBash and its commands!
+GitBash and its commands!
 - [GitBash](https://www.atlassian.com/git/tutorials/git-bash "GitBash Commands")
 
 
