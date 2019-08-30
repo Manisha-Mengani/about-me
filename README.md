@@ -12,6 +12,10 @@
 Create a GitHub account,have any on the below web browers installed to create a webpage.
 install Git Bash,commands required to develop webpage will be provided in recommeded Resources
  - GitHub Account
+ - Languages
+    1. HTML
+    1. CSS
+    1. Markdown
  - Web Browsers
     - Google Chrome
     - Safari(MAC book)
