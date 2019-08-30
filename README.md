@@ -1,8 +1,8 @@
 # about-me
 ## Repository Links:
 
-- [source repository](https://manisha-mengani.github.io/about-me/)
-- [hosted page](https://github.com/Manisha-Mengani/about-me)
+- [source repository](https://github.com/Manisha-Mengani/about-me)
+- [hosted page](https://manisha-mengani.github.io/about-me/)
 
 ## About
 *This page gives a detailed information to develop and publish a repository using GitHub pages.This also includes tools that are required to develop .In the last you can view some stuff related to me down the contributer heading.*
