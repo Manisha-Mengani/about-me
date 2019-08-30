@@ -28,9 +28,11 @@ What exactly is GitHub? and Why only GitHub?These questions can be answers by th
 GitBash and its commands!
 - [GitBash](https://www.atlassian.com/git/tutorials/git-bash "GitBash Commands")
 
-## Contributers
+## Contributors
 
-HI Iam Manisha Mengani,an international student pursuing my masters in Applied computer science at Northwest Missouri State University.
+Hi!! iam Manisha Mengani,an international student pursuing my masters in Applied computerscience at Northwest Missouri State University.
+Below is my recent picture when me and my husband had a long drive to Omaha!!
+
 
 
 
