@@ -32,7 +32,7 @@ GitBash and its commands!
 
 Iam Manisha Mengani,an international student pursuing my majors in Applied computerScience at Northwest Missouri State University.
 Below is my recent picture when my husband and me had a long drive to Omaha!!
-- ![my image](https://github.com/Manisha-Mengani/about-me/blob/master/WhatsApp%20Image%202019-08-22%20at%2010.26.21%20PM%20(1).jpeg)
+- ![my image](https://github.com/Manisha-Mengani/about-me/blob/master/ManishaGitHub.jpeg)
 
 
 
